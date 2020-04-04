@@ -226,7 +226,7 @@
 						<span class="scroll-arrow"></span>
 					</div>
 					<div class="scroll-btn-flip-box">
-						<span class="scroll-btn-flip" data-text="Scroll">Scroll</span>
+						<span class="scroll-btn-flip" data-text="Scroll">ScrrrollKaren</span>
 					</div>
 				 </a><!-- scroll-btn end -->
 			</section><!-- page-head end -->
@@ -783,7 +783,7 @@
 				</div><!-- column end -->
 				<!-- column start -->
 				<div class="twelve-columns">
-					<p class="p-letter-style text-color-4 footer-copyright">&copy; Copyright 2019 XEN. Theme by <a href="#">Jinna Gik</a></p>
+					<p class="p-letter-style text-color-4 footer-copyright">&copy; Copyright 2019 XENKaren Aroyan. Theme by <a href="#">Jinna Gik</a></p>
 				</div><!-- column end -->
 			</div><!-- flex-container end -->
 		</footer><!-- footer end -->
