@@ -5062,7 +5062,7 @@ body.anim .load-title-fill:after {
 
 .title-fill.title-fill-anim:before,
 .title-fill.title-fill-anim:after {
-	width: 100%;
+	width: 180%;
 }
 
 .dark-bg-1 .title-fill:before,

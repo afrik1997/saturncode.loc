@@ -77,33 +77,7 @@
 					</a>
 					
 					<!-- dropdown start -->
-					<ul class="dropdown">
-						<li class="nav-box">
-							<a href="index-2.html" class="animsition-link pointer-large">
-								<span class="nav-btn" data-text="Slider Home">Slider Home</span>
-							</a>
-						</li>
-						<li class="nav-box">
-							<a href="video_home.html" class="animsition-link pointer-large">
-								<span class="nav-btn" data-text="Video Bg">Video Bg</span>
-							</a>
-						</li>
-						<li class="nav-box">
-							<a href="home_fullscreen.html" class="animsition-link pointer-large">
-								<span class="nav-btn" data-text="Fullscreen Bg">Fullscreen Bg</span>
-							</a>
-						</li>
-						<li class="nav-box">
-							<a href="home_particles.html" class="animsition-link pointer-large">
-								<span class="nav-btn active" data-text="Particles">Particles</span>
-							</a>
-						</li>
-						<li class="nav-box">
-							<a href="home_typewriter.html" class="animsition-link pointer-large">
-								<span class="nav-btn" data-text="Typewriter">Typewriter</span>
-							</a>
-						</li>
-					</ul><!-- dropdown end -->
+					<!-- dropdown end -->
 					
 					<div class="nav-bg" style="background-image: url(assets/images/backgrounds/pexels-photo-1806031.jpg);"></div>
 				</li><!-- nav-box end -->
@@ -226,7 +200,7 @@
 						<span class="scroll-arrow"></span>
 					</div>
 					<div class="scroll-btn-flip-box">
-						<span class="scroll-btn-flip" data-text="Scroll">ScrrrollKaren</span>
+						<span class="scroll-btn-flip" data-text="Scroll">Scroll</span>
 					</div>
 				 </a><!-- scroll-btn end -->
 			</section><!-- page-head end -->
@@ -243,24 +217,24 @@
 							<div class="twelve-columns text-center">
 								<h2 class="large-title text-height-12">
 									<span data-animation-child class="title-fill" data-animation="title-fill-anim" data-text="We are Creative">We are Creative</span><br>
-									<span data-animation-child class="title-fill tr-delay01" data-animation="title-fill-anim" data-text="We are Xen">We are Saturn Code</span>
+									<span data-animation-child class="title-fill tr-delay01" data-animation="title-fill-anim" data-text="We are Saturn Code">We are Saturn Code</span>
 								</h2>
 							</div><!-- column end -->
 							<!-- column start -->
 							<div class="six-columns">
 								<div class="content-right-margin-20">
-									<p data-animation-child class="p-style-medium text-color-5 fade-anim-box tr-delay02" data-animation="fade-anim">Affogato thundercats quinoa, portland cold-pressed edison bulb artisan paleo banjo tousled try-hard food truck pop-up bushwick godard. Occupy 90's try-hard tote bag chicharrones stumptown polaroid hashtag cliche +1, tousled fanny pack. Tote bag iPhone crucifix hella helvetica food truck bicycle rights cloud bread. Yr iPhone asymmetrical, next level vexillologist godard blog green juice chia. Tacos jean shorts pickled PBR&B poutine.</p>
+									<p data-animation-child class="p-style-medium text-color-5 fade-anim-box tr-delay02" data-animation="fade-anim">text mer @nkerutyan masin</p>
 								</div>
 							</div><!-- column end -->
 							<!-- column start -->
 							<div class="six-columns">
 								<div class="content-left-margin-20">
-									<p data-animation-child class="p-style-medium text-color-5 fade-anim-box tr-delay03" data-animation="fade-anim">Godard slow-carb chartreuse occupy, tumblr letterpress pok pok tattooed yr lyft yuccie kinfolk. IPhone kombucha shaman gastropub snackwave 90's lo-fi pug chillwave pok pok tofu. Swag deep v listicle roof party seitan man braid raclette church-key trust fund locavore vexillologist green juice raw denim tilde meh. Austin thundercats locavore taiyaki snackwave hoodie put a bird on it tattooed selvage kitsch ramps. </p>
+									<p data-animation-child class="p-style-medium text-color-5 fade-anim-box tr-delay03" data-animation="fade-anim">text mer @nkerutyan masin 2 </p>
 								</div>
 							</div><!-- column end -->
 							<!-- column start -->
 							<div class="twelve-columns text-center">
-								<p data-animation-child class="p-letter-style text-color-4 text-height-13 fade-anim-box tr-delay04" data-animation="fade-anim">Godard slow-carb chartreuse occupy, tumblr letterpress</p>
+								<p data-animation-child class="p-letter-style text-color-4 text-height-13 fade-anim-box tr-delay04" data-animation="fade-anim">mer nshanabanne misht araj</p>
 							</div><!-- column end -->
 						</div><!-- flex-container end -->
 					</div><!-- container end -->
@@ -271,7 +245,7 @@
 			<section class="light-bg-1 bottom-padding-30 top-padding-120" data-midnight="black">
 				<!-- container start -->
 				<div data-animation-container class="container small bottom-padding-60 text-center">
-					<h2 data-animation-child class="large-title text-height-10 text-color-1 overlay-anim-box2" data-animation="overlay-anim2">Recent Works</h2><br>
+					<h2 data-animation-child class="large-title text-height-10 text-color-1 overlay-anim-box2" data-animation="overlay-anim2">Մեր ծառայությունները</h2><br>
 					<p data-animation-child class="fade-anim-box tr-delay02 text-color-1 xsmall-title-oswald top-margin-5" data-animation="fade-anim">We Offer Digital Solutions</p>
 				</div><!-- container end -->
 				
@@ -288,9 +262,9 @@
 									<div class="content-right-margin-40">
 										<span class="small-title-oswald red-color overlay-anim-box2" data-animation="overlay-anim2">Commercial</span>
 										<h3 class="title-style text-color-1">
-											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay01" data-animation="overlay-anim2">Bushwick selfies</span><br>
-											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay02" data-animation="overlay-anim2">pork belly lyft</span><br>
-											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay03" data-animation="overlay-anim2">brooklyn messeng</span>
+											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay01" data-animation="overlay-anim2">Վեբ ծրագրավորում</span><br>
+											<!-- <span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay02" data-animation="overlay-anim2">pork belly lyft</span><br>
+											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay03" data-animation="overlay-anim2">brooklyn messeng</span> -->
 										</h3>
 										<p data-animation-child class="p-style-small text-color-2 fade-anim-box tr-delay04" data-animation="fade-anim">Narwhal pop-up intelligentsia tbh pinterest, microdosing tilde cloud bread gochujang tattooed leggings cornhole 8-bit. Austin fam chia cold-pressed raw denim. Glossier drinking vinegar portland lo-fi, polaroid bespoke lomo. Banjo art party XOXO, fashion axe sustainable retro ethical gentrify.</p>
 										
@@ -330,9 +304,9 @@
 									<div class="content-left-margin-40">
 										<span class="small-title-oswald red-color overlay-anim-box2" data-animation="overlay-anim2">Graphic Design</span>
 										<h3 class="title-style text-color-1">
-											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay01" data-animation="overlay-anim2">tumeric tumblr</span><br>
-											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay02" data-animation="overlay-anim2">gluten-free</span><br>
-											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay03" data-animation="overlay-anim2">Man bun small</span>
+											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay01" data-animation="overlay-anim2">ՎԵբ դիզայն</span><br>
+											<!-- <span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay02" data-animation="overlay-anim2">gluten-free</span><br>
+											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay03" data-animation="overlay-anim2">Man bun small</span> -->
 										</h3>
 										<p data-animation-child class="p-style-small text-color-2 fade-anim-box tr-delay04" data-animation="fade-anim">Slow-carb green juice subway tile bicycle rights, fanny pack raclette palo santo put a bird on it mustache actually fam mumblecore iPhone. Iceland post-ironic health goth snackwave, mixtape synth four dollar toast sartorial. Health goth la croix vexillologist, before they sold out shabby chic.</p>
 										
@@ -360,9 +334,9 @@
 									<div class="content-right-margin-40">
 										<span class="small-title-oswald red-color overlay-anim-box2" data-animation="overlay-anim2">Branding</span>
 										<h3 class="title-style text-color-1">
-											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay01" data-animation="overlay-anim2">batch kombucha</span><br>
-											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay02" data-animation="overlay-anim2">subway tile</span><br>
-											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay03" data-animation="overlay-anim2">salvia brooklyn</span>
+											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay01" data-animation="overlay-anim2">SEO առաջխաղացում</span><br>
+											<!-- <span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay02" data-animation="overlay-anim2">subway tile</span><br>
+											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay03" data-animation="overlay-anim2">salvia brooklyn</span> -->
 										</h3>
 										<p data-animation-child class="p-style-small text-color-2 fade-anim-box tr-delay04" data-animation="fade-anim">Mlkshk YOLO wolf, leggings vinyl crucifix stumptown tousled. Pabst venmo gentrify deep v microdosing migas occupy master cleanse intelligentsia sartorial chia activated charcoal. Iceland small batch live-edge raclette roof party dreamcatcher austin pickled. Chillwave cronut messenger bag truffaut.</p>
 										
@@ -384,39 +358,7 @@
 				</div><!-- bottom-padding-90 end -->
 				
 				<!-- bottom-padding-90 start -->
-				<div class="bottom-padding-90">
-					<!-- portfolio-content start -->
-					<div class="portfolio-content flex-min-height-box">
-						<!-- portfolio-content-inner start -->
-						<div class="portfolio-content-inner flex-min-height-inner">
-							<!-- flex-container start -->
-							<div class="flex-container reverse container small">
-								<!-- column start -->
-								<div class="six-columns top-padding-60">
-									<a href="project.html" class="portfolio-content-bg-box pointer-large hover-box hidden-box animsition-link">
-										<div class="portfolio-content-bg hover-img overlay-anim-box2 overlay-dark-bg-2" data-animation="overlay-anim2" style="background-image:url(assets/images/projects/chocolate-delicious-dessert-890500.jpg)"></div>
-									</a>
-								</div><!-- column end -->
-								<!-- column start -->
-								<div data-animation-container class="six-columns">
-									<div class="content-left-margin-40">
-										<span class="small-title-oswald red-color overlay-anim-box2" data-animation="overlay-anim2">Web design</span>
-										<h3 class="title-style text-color-1">
-											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay01" data-animation="overlay-anim2">organic activated</span><br>
-											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay02" data-animation="overlay-anim2">charcoal vape</span><br>
-											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay03" data-animation="overlay-anim2">viral ennui</span>
-										</h3>
-										<p data-animation-child class="p-style-small text-color-2 fade-anim-box tr-delay04" data-animation="fade-anim">Tote bag cornhole pork belly swag, cronut hoodie snackwave 90's messenger bag pour-over disrupt chartreuse. Vape ugh cardigan hell of. Vaporware umami master cleanse neutra, chartreuse flexitarian lo-fi selvage hella hoodie freegan gentrify. 8-bit air plant umami asymmetrical franzen semiotics before.</p>
-										
-										<div data-animation-child class="arrow-btn-box top-margin-30 fade-anim-box tr-delay05" data-animation="fade-anim">
-											<a href="project.html" class="arrow-btn pointer-large animsition-link">Read more</a>
-										</div>
-										
-									</div>
-								</div><!-- column end -->
-							</div><!-- flex-container end -->
-						</div><!-- portfolio-content-inner end -->
-					</div><!-- portfolio-content end -->
+				<!-- ..deleted.. -->
 				</div><!-- bottom-padding-90 end -->
 			</section><!-- section end -->
 			
@@ -425,10 +367,8 @@
 				<!-- container start -->
 				<div class="container small top-bottom-padding-120">
 					<!-- medium-title start -->
-					<h2 data-animation-container class="medium-title">
-						<span data-animation-child class="title-fill" data-animation="title-fill-anim" data-text="Fine Folks">Fine Folks</span><br>
-						<span data-animation-child class="title-fill tr-delay01" data-animation="title-fill-anim" data-text="We’ve Worked">We’ve Worked</span><br>
-						<span data-animation-child class="title-fill tr-delay02" data-animation="title-fill-anim" data-text="With">With</span>
+					<h2 data-animation-container class="medium-title">						
+						<span data-animation-child class="title-fill tr-delay01" data-animation="title-fill-anim" data-text="Մեր գործնկերները">We’ve Worked</span><br>						
 					</h2><!-- medium-title end -->
 					
 					<!-- client-list start -->
