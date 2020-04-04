@@ -226,7 +226,7 @@
 						<span class="scroll-arrow"></span>
 					</div>
 					<div class="scroll-btn-flip-box">
-						<span class="scroll-btn-flip" data-text="Scroll">Scroll</span>
+						<span class="scroll-btn-flip" data-text="Scroll">ScrollKaren</span>
 					</div>
 				 </a><!-- scroll-btn end -->
 			</section><!-- page-head end -->
