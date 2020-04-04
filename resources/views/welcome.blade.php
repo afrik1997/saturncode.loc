@@ -783,7 +783,7 @@
 				</div><!-- column end -->
 				<!-- column start -->
 				<div class="twelve-columns">
-					<p class="p-letter-style text-color-4 footer-copyright">&copy; Copyright 2019 XENKaren Aroyan 10. Theme by <a href="#">Jinna Gik</a></p>
+					<p class="p-letter-style text-color-4 footer-copyright">&copy; Copyright 2019 XENKaren Aroyan. Theme by <a href="#">Jinna Gik</a></p>
 				</div><!-- column end -->
 			</div><!-- flex-container end -->
 		</footer><!-- footer end -->
