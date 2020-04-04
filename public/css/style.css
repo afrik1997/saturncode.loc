@@ -5062,7 +5062,7 @@ body.anim .load-title-fill:after {
 
 .title-fill.title-fill-anim:before,
 .title-fill.title-fill-anim:after {
-	width: 180%;
+	width: 100%;
 }
 
 .dark-bg-1 .title-fill:before,
@@ -9039,4 +9039,9 @@ body.out .swiper-slide-active .portfolio-slider-fade {
 		margin-top: 0;
 	}
 		
+}
+
+/* my style */
+#merPartners{
+	width: 180%;
 }
