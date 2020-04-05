@@ -73,7 +73,7 @@
 				<!-- nav-box start -->
 				<li class="nav-box nav-bg-change active dropdown-open">
 					<a class="pointer-large nav-link">
-						<span class="nav-btn active" data-text="Home">Գլխավոր</span>
+						<span class="nav-btn active" data-text="Գլխավոր">Գլխավոր</span>
 					</a>
 					
 					<!-- dropdown start -->
@@ -84,14 +84,14 @@
 				<!-- nav-box start -->
 				<li class="nav-box nav-bg-change">
 					<a href="about.html" class="animsition-link pointer-large nav-link">
-						<span class="nav-btn" data-text="About">Մեր Մասին</span>
+						<span class="nav-btn" data-text="Մեր Մասին">Մեր Մասին</span>
 					</a>
 					<div class="nav-bg" style="background-image: url(assets/images/backgrounds/adolescent-adult-diversity-1034361.jpg);"></div>
 				</li><!-- nav-box end -->
 				<!-- nav-box start -->
 				<li class="nav-box nav-bg-change">
 					<a href="services.html" class="animsition-link pointer-large nav-link">
-						<span class="nav-btn" data-text="Services">Ծառայություններ</span>
+						<span class="nav-btn" data-text="Ծառայություններ">Ծառայություններ</span>
 					</a>
 					<div class="nav-bg" style="background-image: url(assets/images/backgrounds/bald-casual-facial-hair-1708528.jpg);"></div>
 				</li><!-- nav-box end -->
@@ -162,7 +162,7 @@
 				<!-- nav-box start -->
 				<li class="nav-box nav-bg-change">
 					<a href="contact.html" class="animsition-link pointer-large nav-link">
-						<span class="nav-btn" data-text="Contact">Հետադարձ կապ</span>
+						<span class="nav-btn" data-text="Հետադարձ կապ">Հետադարձ կապ</span>
 					</a>
 					<div class="nav-bg" style="background-image: url(assets/images/backgrounds/double-exposure-2390185_1920.jpg);"></div>
 				</li><!-- nav-box end -->
