@@ -246,7 +246,7 @@
 				<!-- container start -->
 				<div data-animation-container class="container small bottom-padding-60 text-center">
 					<h2 data-animation-child class="large-title text-height-10 text-color-1 overlay-anim-box2" data-animation="overlay-anim2">Մեր ծառայությունները</h2><br>
-					<p data-animation-child class="fade-anim-box tr-delay02 text-color-1 xsmall-title-oswald top-margin-5" data-animation="fade-anim">We Offer Digital Solutions</p>
+					<p data-animation-child class="fade-anim-box tr-delay02 text-color-1 xsmall-title-oswald top-margin-5" data-animation="fade-anim">Մենք առաջարկում ենք թվային լուծումներ</p>
 				</div><!-- container end -->
 				
 				<!-- bottom-padding-90 start -->
@@ -260,16 +260,16 @@
 								<!-- column start -->
 								<div data-animation-container class="six-columns">
 									<div class="content-right-margin-40">
-										<span class="small-title-oswald red-color overlay-anim-box2" data-animation="overlay-anim2">Commercial</span>
+										<span class="small-title-oswald red-color overlay-anim-box2" data-animation="overlay-anim2">Կոմերցիոն</span>
 										<h3 class="title-style text-color-1">
 											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay01" data-animation="overlay-anim2">Վեբ ծրագրավորումAnna</span><br>
 											<!-- <span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay02" data-animation="overlay-anim2">pork belly lyft</span><br>
 											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay03" data-animation="overlay-anim2">brooklyn messeng</span> -->
 										</h3>
-										<p data-animation-child class="p-style-small text-color-2 fade-anim-box tr-delay04" data-animation="fade-anim">Narwhal pop-up intelligentsia tbh pinterest, microdosing tilde cloud bread gochujang tattooed leggings cornhole 8-bit. Austin fam chia cold-pressed raw denim. Glossier drinking vinegar portland lo-fi, polaroid bespoke lomo. Banjo art party XOXO, fashion axe sustainable retro ethical gentrify.</p>
+										<p data-animation-child class="p-style-small text-color-2 fade-anim-box tr-delay04" data-animation="fade-anim">Մենք պատրաստում ենք ցանկացած բարդության վեբ կայքեր , ապահովելով ամենատարբեր ֆունկցիանալությամբ և կրեատիվ դիզայնով:</p>
 										
 										<div data-animation-child class="arrow-btn-box top-margin-30 fade-anim-box tr-delay05" data-animation="fade-anim">
-											<a href="project.html" class="arrow-btn pointer-large animsition-link">Read more</a>
+											<a href="project.html" class="arrow-btn pointer-large animsition-link">Կարդալ ավելին</a>
 										</div>
 										
 									</div>
@@ -277,7 +277,7 @@
 								<!-- column start -->
 								<div class="six-columns top-padding-60">
 									<a href="project.html" class="portfolio-content-bg-box pointer-large hover-box hidden-box animsition-link">
-										<div class="portfolio-content-bg hover-img overlay-anim-box2 overlay-dark-bg-2" data-animation="overlay-anim2" style="background-image:url(assets/images/projects/pexels-photo-1619654.jpg)"></div>
+										<div class="portfolio-content-bg hover-img overlay-anim-box2 overlay-dark-bg-2" data-animation="overlay-anim2" style="background-image:url({{asset('images/projects/pexels-photo-1619654.jpg')}})"></div>
 									</a>
 								</div><!-- column end -->
 							</div><!-- flex-container end -->
@@ -296,22 +296,23 @@
 								<!-- column start -->
 								<div class="six-columns top-padding-60">
 									<a href="project.html" class="portfolio-content-bg-box pointer-large hover-box hidden-box animsition-link">
-										<div class="portfolio-content-bg hover-img overlay-anim-box2 overlay-dark-bg-2" data-animation="overlay-anim2" style="background-image:url(assets/images/projects/audio-cassette-cassette-tape-1626481.jpg)"></div>
+										<div class="portfolio-content-bg hover-img overlay-anim-box2 overlay-dark-bg-2" data-animation="overlay-anim2" style="background-image:url({{asset('images/projects/pexels-photo-1619654.jpg')}})"></div>
 									</a>
 								</div><!-- column end -->
 								<!-- column start -->
 								<div data-animation-container class="six-columns">
 									<div class="content-left-margin-40">
-										<span class="small-title-oswald red-color overlay-anim-box2" data-animation="overlay-anim2">Graphic Design</span>
+										<span class="small-title-oswald red-color overlay-anim-box2" data-animation="overlay-anim2"><!--Graphic Design-->Գրաֆիկական դիզայն</span>
 										<h3 class="title-style text-color-1">
 											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay01" data-animation="overlay-anim2">ՎԵբ դիզայն</span><br>
 											<!-- <span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay02" data-animation="overlay-anim2">gluten-free</span><br>
 											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay03" data-animation="overlay-anim2">Man bun small</span> -->
 										</h3>
-										<p data-animation-child class="p-style-small text-color-2 fade-anim-box tr-delay04" data-animation="fade-anim">Slow-carb green juice subway tile bicycle rights, fanny pack raclette palo santo put a bird on it mustache actually fam mumblecore iPhone. Iceland post-ironic health goth snackwave, mixtape synth four dollar toast sartorial. Health goth la croix vexillologist, before they sold out shabby chic.</p>
+										<p data-animation-child class="p-style-small text-color-2 fade-anim-box tr-delay04" data-animation="fade-anim">Ցանկացած վեբ կայքում դիզայնը առաջինն է ինչին ուշադրություն են դարձնում հաճախորդները և հետևաբար 
+										ժամանակակից և կրեատիվ դիզայնը մեծ դեր ունեն կայքի գնահատման վրա:</p>
 										
 										<div data-animation-child class="arrow-btn-box top-margin-30 fade-anim-box tr-delay05" data-animation="fade-anim">
-											<a href="project.html" class="arrow-btn pointer-large animsition-link">Read more</a>
+											<a href="project.html" class="arrow-btn pointer-large animsition-link">Կարդալ ավելին</a>
 										</div>
 										
 									</div>
@@ -332,16 +333,17 @@
 								<!-- column start -->
 								<div data-animation-container class="six-columns">
 									<div class="content-right-margin-40">
-										<span class="small-title-oswald red-color overlay-anim-box2" data-animation="overlay-anim2">Branding</span>
+										<span class="small-title-oswald red-color overlay-anim-box2" data-animation="overlay-anim2">Բրենդինգ</span>
 										<h3 class="title-style text-color-1">
 											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay01" data-animation="overlay-anim2">SEO առաջխաղացում</span><br>
 											<!-- <span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay02" data-animation="overlay-anim2">subway tile</span><br>
 											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay03" data-animation="overlay-anim2">salvia brooklyn</span> -->
 										</h3>
-										<p data-animation-child class="p-style-small text-color-2 fade-anim-box tr-delay04" data-animation="fade-anim">Mlkshk YOLO wolf, leggings vinyl crucifix stumptown tousled. Pabst venmo gentrify deep v microdosing migas occupy master cleanse intelligentsia sartorial chia activated charcoal. Iceland small batch live-edge raclette roof party dreamcatcher austin pickled. Chillwave cronut messenger bag truffaut.</p>
+										<p data-animation-child class="p-style-small text-color-2 fade-anim-box tr-delay04" data-animation="fade-anim">SEO առաջխաղացումը հնարաորություն է տալիս բարձրացնել ձեր կայքի դիրքը 
+										որոնողական համակարգերում , ինչը զգալիորեն բարձրացնում է կայքի դիտելիությունը:</p>
 										
 										<div data-animation-child class="arrow-btn-box top-margin-30 fade-anim-box tr-delay05" data-animation="fade-anim">
-											<a href="project.html" class="arrow-btn pointer-large animsition-link">Read more</a>
+											<a href="project.html" class="arrow-btn pointer-large animsition-link">Կարդալ ավելին</a>
 										</div>
 										
 									</div>
@@ -349,7 +351,7 @@
 								<!-- column start -->
 								<div class="six-columns top-padding-60">
 									<a href="project.html" class="portfolio-content-bg-box pointer-large hover-box hidden-box animsition-link">
-										<div class="portfolio-content-bg hover-img overlay-anim-box2 overlay-dark-bg-2" data-animation="overlay-anim2" style="background-image:url(assets/images/projects/blur-close-up-equipment-1034651.jpg)"></div>
+										<div class="portfolio-content-bg hover-img overlay-anim-box2 overlay-dark-bg-2" data-animation="overlay-anim2" style="background-image:url({{asset('images/projects/pexels-photo-1619654.jpg')}})"></div>
 									</a>
 								</div><!-- column end -->
 							</div><!-- flex-container end -->
