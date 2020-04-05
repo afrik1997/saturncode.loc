@@ -262,7 +262,7 @@
 									<div class="content-right-margin-40">
 										<span class="small-title-oswald red-color overlay-anim-box2" data-animation="overlay-anim2">Կոմերցիոն</span>
 										<h3 class="title-style text-color-1">
-											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay01" data-animation="overlay-anim2">Վեբ ծրագրավորումAnna</span><br>
+											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay01" data-animation="overlay-anim2">Վեբ ծրագրավորում</span><br>
 											<!-- <span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay02" data-animation="overlay-anim2">pork belly lyft</span><br>
 											<span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay03" data-animation="overlay-anim2">brooklyn messeng</span> -->
 										</h3>
@@ -352,7 +352,7 @@
 								<div class="six-columns top-padding-60">
 									<a href="project.html" class="portfolio-content-bg-box pointer-large hover-box hidden-box animsition-link">
 										<div class="portfolio-content-bg hover-img overlay-anim-box2 overlay-dark-bg-2" data-animation="overlay-anim2" style="background-image:url({{asset('images/projects/pexels-photo-1619654.jpg')}})"></div>
-									</a>
+   									</a>
 								</div><!-- column end -->
 							</div><!-- flex-container end -->
 						</div><!-- portfolio-content-inner end -->
