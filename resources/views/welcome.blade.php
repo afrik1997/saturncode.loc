@@ -98,7 +98,7 @@
 				<!-- nav-box start -->
 				<li class="nav-box nav-bg-change dropdown-open">
 					<a class="pointer-large nav-link">
-						<span class="nav-btn" data-text="Portfolio">Portfolio</span>
+						<span class="nav-btn" data-text="Պորտֆոլիո">Պորտֆոլիո</span>
 					</a>
 					
 					<!-- dropdown start -->
@@ -140,7 +140,7 @@
 				<!-- nav-box start -->
 				<li class="nav-box nav-bg-change dropdown-open">
 					<a class="pointer-large nav-link">
-						<span class="nav-btn" data-text="Blog">Blog</span>
+						<span class="nav-btn" data-text="Բլոգ">Բլոգ</span>
 					</a>
 					
 					<!-- dropdown start -->
@@ -644,8 +644,8 @@
 							<li><a class="pointer-large animsition-link small-title-oswald hover-color active" href="index-2.html">Գլխավոր</a></li>
 							<li><a class="pointer-large animsition-link small-title-oswald hover-color" href="about.html">Մեր Մասին</a></li>
 							<li><a class="pointer-large animsition-link small-title-oswald hover-color" href="services.html">Ծառայություններ</a></li>
-							<li><a class="pointer-large animsition-link small-title-oswald hover-color" href="portfolio.html">Portfolio</a></li>
-							<li><a class="pointer-large animsition-link small-title-oswald hover-color" href="blog.html">Blog</a></li>
+							<li><a class="pointer-large animsition-link small-title-oswald hover-color" href="portfolio.html">Պորտֆոլիո</a></li>
+							<li><a class="pointer-large animsition-link small-title-oswald hover-color" href="blog.html">Բլոգ</a></li>
 							<li><a class="pointer-large animsition-link small-title-oswald hover-color" href="contact.html">Հետադարձ Կապ</a></li>
 						</ul>
 					</div>
