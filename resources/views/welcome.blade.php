@@ -73,7 +73,7 @@
 				<!-- nav-box start -->
 				<li class="nav-box nav-bg-change active dropdown-open">
 					<a class="pointer-large nav-link">
-						<span class="nav-btn active" data-text="Home">Home</span>
+						<span class="nav-btn active" data-text="Home">Գլխավոր</span>
 					</a>
 					
 					<!-- dropdown start -->
@@ -84,14 +84,14 @@
 				<!-- nav-box start -->
 				<li class="nav-box nav-bg-change">
 					<a href="about.html" class="animsition-link pointer-large nav-link">
-						<span class="nav-btn" data-text="About">About</span>
+						<span class="nav-btn" data-text="About">Մեր Մասին</span>
 					</a>
 					<div class="nav-bg" style="background-image: url(assets/images/backgrounds/adolescent-adult-diversity-1034361.jpg);"></div>
 				</li><!-- nav-box end -->
 				<!-- nav-box start -->
 				<li class="nav-box nav-bg-change">
 					<a href="services.html" class="animsition-link pointer-large nav-link">
-						<span class="nav-btn" data-text="Services">Services</span>
+						<span class="nav-btn" data-text="Services">Ծառայություններ</span>
 					</a>
 					<div class="nav-bg" style="background-image: url(assets/images/backgrounds/bald-casual-facial-hair-1708528.jpg);"></div>
 				</li><!-- nav-box end -->
@@ -162,7 +162,7 @@
 				<!-- nav-box start -->
 				<li class="nav-box nav-bg-change">
 					<a href="contact.html" class="animsition-link pointer-large nav-link">
-						<span class="nav-btn" data-text="Contact">Contact</span>
+						<span class="nav-btn" data-text="Contact">Հետադարձ կապ</span>
 					</a>
 					<div class="nav-bg" style="background-image: url(assets/images/backgrounds/double-exposure-2390185_1920.jpg);"></div>
 				</li><!-- nav-box end -->
@@ -641,12 +641,12 @@
 				<div class="three-columns bottom-padding-60">
 					<div class="content-left-right-margin-10">
 						<ul class="footer-menu text-color-4">
-							<li><a class="pointer-large animsition-link small-title-oswald hover-color active" href="index-2.html">Home</a></li>
-							<li><a class="pointer-large animsition-link small-title-oswald hover-color" href="about.html">About</a></li>
-							<li><a class="pointer-large animsition-link small-title-oswald hover-color" href="services.html">Services</a></li>
+							<li><a class="pointer-large animsition-link small-title-oswald hover-color active" href="index-2.html">Գլխավոր</a></li>
+							<li><a class="pointer-large animsition-link small-title-oswald hover-color" href="about.html">Մեր Մասին</a></li>
+							<li><a class="pointer-large animsition-link small-title-oswald hover-color" href="services.html">Ծառայություններ</a></li>
 							<li><a class="pointer-large animsition-link small-title-oswald hover-color" href="portfolio.html">Portfolio</a></li>
 							<li><a class="pointer-large animsition-link small-title-oswald hover-color" href="blog.html">Blog</a></li>
-							<li><a class="pointer-large animsition-link small-title-oswald hover-color" href="contact.html">Contact</a></li>
+							<li><a class="pointer-large animsition-link small-title-oswald hover-color" href="contact.html">Հետադարձ Կապ</a></li>
 						</ul>
 					</div>
 				</div><!-- column end -->
